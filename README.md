@@ -1,4 +1,4 @@
-# TRABALHO 01 : Título do trabalho
+# TRABALHO 01 : HPAC - Histórico de Pacientes
 Trabalho desenvolvido durante a disciplina de BD
 
     O referido projeto poderá ser:
@@ -34,14 +34,27 @@ DICA:
     https://www.kickstarter.com/discover/categories/technology/apps
 # Sumário
 
+Histórico de Pacientes é um sistema de banco de dados pessoal do paciente. O sistema tem como sua principal função: Registrar as consultas, exames e laudos, realizadas pelo paciente com diversos médicos e especialistas ao longo de sua vida. Serão registrados no sistema dados tais como; nome do médico, especialidade, data da consulta, CRM, diagnóstico, solicitações e resultados de exames, laudos e pareceres.
+
+
 ### 1	COMPONENTES<br>
-Integrantes do grupo<br>
+Integrantes do grupo:<br>
+Eduardo Couto eduardocoouto@gmail.com<br>
+Olavo Curatola olavo.curatola@gmail.com<br>
+Lucas Garcia lucasoliveiragarcia@live.com<br>
 
 ### 2	INTRODUÇÃO E MOTIVAÇAO<br>
-Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>
+Este documento contém a especificação do projeto do banco de dados do HPAC<br>
+A principal motivação para o desenvolvimento desse sistema é possibilitar uma maior segurança no uso de informações do paciente, no tocante a qualidade e confiabilidade da informação e tambem quanto a permissão de acesso a dados tão sensíveis. A idéia é construir ao longo da vida das pessoas um dossiê com todos os registros de seus problemas de saúde, com os resultados de exames e teste a cada momento de sua vida. Este dossiê deverá ser portado e gerenciado pelo paciente, podendo ser disponibilizado ou acessado por um médico sob sua autorização<br>
       
 ### 3	MINI-MUNDO<br>
-Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
+O grupo deseja criar um sistema de informação para gerenciar as informações relacionadas às consultas médicas que as pessoas fazem  ao longo da vida, o intuito é que as mesmas tenham suas informações documentadas em nosso sistema e apresentem ao seu médico e evitem de
+ter que falar todo o seu histórico a cada médico que for consultado.
+
+O usuário deve fazer o login e digitar sua senha para entrar no sistema, caso já esteja cadastrado. Caso contrário, deverá fazer o cadastro, fornecendo nome completo, CPF, Identidade, endereço, telefone, e-mail, criando sua senha pessoal. Em seguida terá acesso as funcionalidade de criação, consulta e atualização de seu histórico. Podendo incluir exames, radiografias, tomografias, ressonâncias magnética, diagnósticos, laudos e comentários pertinentes. 
+Além disso, o sistema deverá registrar todo o receituário prescrito para o paciente, bem como eventuais internações clinicas ou hospitalares, cirurgias e de mais procedimentos médicos.
+O paciente poderá a qualquer momento atualizar seu histórico com a inserção de dados de novas consultas e exames, assim como poderá inserir resultados de exames antigos que eventualmente encontre em seus arquivos pessoais (em papel), podendo voltar na linha do tempo para completar informações e dar maior consistência ao seu dossiê.
+O sistema deverá ser multiplataforma com acesso por smartphones e computadores pessoais, com acesso em tempo integral. Além disso, deverá possibilitar o acesso rápido aos dados.
 
 ### 4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
