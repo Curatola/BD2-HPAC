@@ -1,37 +1,6 @@
 # TRABALHO 01 : HPAC - Histórico de Pacientes
-Trabalho desenvolvido durante a disciplina de BD
+Trabalho de revisão desenvolvido no início da disciplina de BD2.
 
-    O referido projeto poderá ser:
-        a) Um novo sistema/projeto 
-        b) Uma expansão de sistema/projeto previamente desenvolvido em disciplinas anteriores 
-        (ex: Expansão dos módulos do sistema desenvolvidos em BD1 - incremento mínimo de 50% nos 
-        requisitos/complexidade)
-        c) Nas avaliações parciais do professor, o grupo deverá anotar todas as observaçoes que forem feitas pelo professor 
-        e pelo proprio grupo, enviar uma cópia das atividades por e-mail para o grupo e postar imediatamente estas observaçõe
-        como tarefas a serem realizadas como tarefas por meio do gerenciador de projetos do git.
-        d) Todas as tarefas devem ser realizadas e deve-se atentar para distribuição igualitária de atividades levando-se 
-        em consideração o peso destas.
-        e) Os tópicos numerados para cada atividade no devem ser removidos do trabalho. Entretanto, os conteúdos de exemplo 
-        em cada tópico devem ser substituídos pelo conteúdo do trabalho em desenvolvimento.
-        f) sprints de entrega serão quinzenais ou mensais definidos em aula juntamente com o professor
-    
-    OBS Importantes: 
-        a) Os projetos/sistemas propostos serão validados pelo professor e pela turma
-        b) Se possível é interessante que os novos sistemas estejam correlacionados com alguma área 
-        previamente estudada pelo aluno
-        c) Caso dependa de alguma instituição/parceiro externo, a base de dados e informações pertinentes 
-        a esta devem ser obtidas no prazo de até 15 dias apos aprovação da proposta do trabalho 
-        (caso contrário, nova proposta deverá ser apresentada a turma implicando logicamente em um prazo 
-        mais curto para realização das atividades e conclusão do trabalho)
-    
-DICA: 
-    O kickstart normalmente lança inovaçôes em termos de Sofwares e Apps, portanto pode ser interessante 
-    olhar os lançamentos recentes para incrementar as possibilidades e aguçar a criatividade, o que pode 
-    auxiliar o grupo com novas ideias na solução proposta. Acesse os links abaixo do para explorar sobre apps e softwares no Kickstarter.
-    <br>
-    https://www.kickstarter.com/discover/categories/technology/software
-    <br>
-    https://www.kickstarter.com/discover/categories/technology/apps
 # Sumário
 
 Histórico de Pacientes é um sistema de banco de dados pessoal do paciente. O sistema tem como sua principal função: Registrar as consultas, exames e laudos, realizadas pelo paciente com diversos médicos e especialistas ao longo de sua vida. Serão registrados no sistema dados tais como; nome do médico, especialidade, data da consulta, CRM, diagnóstico, solicitações e resultados de exames, laudos e pareceres.
@@ -57,7 +26,7 @@ O paciente poderá a qualquer momento atualizar seu histórico com a inserção 
 O sistema deverá ser multiplataforma com acesso por smartphones e computadores pessoais, com acesso em tempo integral. Além disso, deverá possibilitar o acesso rápido aos dados.
 
 ### 4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
+https://github.com/OlavoCuratola/BD2-HPAC/blob/master/Telas%20Smartphone.pdf<br>
 
 
 ### 5	MODELO CONCEITUAL<br>
