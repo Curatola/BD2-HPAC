@@ -86,6 +86,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
 
 ### 6	MODELO LÓGICO<br>
+https://github.com/OlavoCuratola/BD2-HPAC/blob/master/Logico%20HPAC3.pdf<br>
 ### 7	MODELO FÍSICO<br>
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 #### 8.1 DETALHAMENTO DAS INFORMAÇÕES
