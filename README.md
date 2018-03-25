@@ -49,6 +49,37 @@ https://github.com/OlavoCuratola/BD2-HPAC/blob/master/Conceitual%20HPAC3.pdf<br>
     EXEMPLO:
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
+    
+    Tabela: receita	- receita do paciente
+    Campo: ID_receita - ID
+    Campo: data - data
+
+    Tabela: medico	- médico
+    Campo: ID_medico	- ID
+    Campo: nome	- nome
+
+    Tabela: laudo	- laudo do paciente
+    Campo: ID_laudo	- ID
+    Campo: data	- data
+
+    Tabela: Exame	- exame do paciente
+    Campo: IDExame	- ID
+    Campo: Data	- Data
+
+    Tabela: Consulta	- consulta do paciente
+    Campo: Diagnostico	- Diagnóstico do médico sobre o paciente
+
+    Tabela: paciente	- paciente
+    Campo: ID_paciente	- ID
+    Campo: identidade	- identidade
+    Campo: cpf	- CPF
+    Campo: nome	- nome
+    Campo: CPF	- CPF
+    Campo: data_nasc	- data
+    Campo: endereço	- endereço
+    Campo: telefone	- telefone
+    Campo: login	- login de acesso ao sistema
+    Campo: senha	- senha de acesso ao sistema
 
 ### 6	MODELO LÓGICO<br>
 https://github.com/OlavoCuratola/BD2-HPAC/blob/master/Logico%20HPAC3.pdf<br>
