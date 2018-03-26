@@ -28,6 +28,10 @@ O sistema deverá ser multiplataforma com acesso por smartphones e computadores 
 ### 4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 https://github.com/OlavoCuratola/BD2-HPAC/blob/master/Telas%20Smartphone.pdf<br>
 
+4.1 TABELA DE DADOS DO SISTEMA:<br>
+Esta tabela deve conter todos os atributos do sistema e um mínimo de 10 linhas. 
+link para a tabela: https://github.com/OlavoCuratola/BD2-HPAC/blob/master/Tabela%20Dados%20Gerais%20Sistema%20-%20HPAC.xlsx
+
 
 ### 5	MODELO CONCEITUAL<br>
 #### 5.1 NOTACAO ENTIDADE RELACIONAMENTO
